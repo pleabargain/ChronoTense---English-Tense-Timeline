@@ -1,0 +1,5 @@
+{
+  "name": "ChronoTense - English Tense Timeline",
+  "description": "A scrolling timeline exploring the 12 English tenses, dynamically scaled from CEFR levels A1 to C2 using Gemini AI.",
+  "requestFramePermissions": []
+}
